@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saullzin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA and JavaScript
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
